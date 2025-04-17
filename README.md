@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leonardo Muniz Devicari
 
-**`Desenvolvedor Front-end`**
+**`Engenheiro de QA`**
 
 ### 🤖 Linguagens e Tecnologias
 
