@@ -14,6 +14,14 @@
 />
 <img 
     align="left" 
+    alt="Cypress"
+    title="Cypress" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
+/>
+<img 
+    align="left" 
     alt="FIGMA"
     title="FIGMA" 
     width="30px" 
