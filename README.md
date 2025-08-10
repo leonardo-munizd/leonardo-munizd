@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leonardo Muniz Devicari
 
-**`Engenheiro de QA`**
+**`QA Analyst and Software Developer`**
 
 ### 🤖 Linguagens e Tecnologias
 
