@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leonardo Muniz Devicari
 
-**`QA Analyst and Junior Security Analyst`**
+**`QA Analyst`**
 
 ### 🤖 Linguagens e Tecnologias
 
